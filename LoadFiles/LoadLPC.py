@@ -27,6 +27,8 @@ class LoadLPC():
             if self.nameFileEnd is 'lumireg_LHCb':
                 try:
                     d=np.genfromtxt(path, dtype=None, names=['time_sec','stablebeams_flag','xmean','dx','ymean','dy','zmean','dz','xsigma','dxsigma','ysigma','dysigma','zsigma','dzsigma','xangle','dxangle','yangle','dyangle'], delimiter='').T
+                except TypeError:
+                    pass
                 except IOError:
                     #d=np.empty
                     pass
@@ -35,6 +37,9 @@ class LoadLPC():
             elif self.nameFileEnd is 'beam1_LHCb' or self.nameFileEnd is 'beam2_LHCb':
                 try:
                     d=np.genfromtxt(path, dtype=None, names=['time_sec','stablebeams_flag','xmean','dx','ymean','dy','xangle','dxangle','yangle','dyangle','xsigma','dxsigma','ysigma','dysigma'], delimiter=' ').T
+
+                except TypeError:
+                    pass
                 except IOError:
                     #d=np.empty
                     pass
@@ -43,6 +48,9 @@ class LoadLPC():
             elif self.nameFileEnd is 'lumi_LHCb':
                 try:
                     d=np.genfromtxt(path, dtype=None, names=['time_sec','stablebeams_flag','lumi','lumi_err','lumispec','lumispec_err'], delimiter=' ').T
+
+                except TypeError:
+                    pass
                 except IOError:
                     #d=np.empty
                     pass
