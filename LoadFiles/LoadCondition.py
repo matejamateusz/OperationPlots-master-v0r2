@@ -1,6 +1,6 @@
 __author__ = 'mmateja'
 
-from LoadFillNumber import LoadFillNumbers
+from LoadFillNumbers import LoadFillNumbers
 from IO.ConditionData import ConditionData
 import numpy as np
 class LoadCondition():

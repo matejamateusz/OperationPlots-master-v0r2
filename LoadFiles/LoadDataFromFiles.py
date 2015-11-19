@@ -1,6 +1,6 @@
 __author__ = 'mmateja'
 
-from LoadFillNumber import LoadFillNumbers
+from LoadFillNumbers import LoadFillNumbers
 from LoadFiles import LoadFiles
 class LoadDataFromFiles():
 

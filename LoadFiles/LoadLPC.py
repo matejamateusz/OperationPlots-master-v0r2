@@ -2,7 +2,7 @@ from __builtin__ import dict
 
 __author__ = 'mmateja'
 
-from LoadFillNumber import LoadFillNumbers
+from LoadFillNumbers import LoadFillNumbers
 from IO.LPCData import LPCData
 import numpy as np
 class LoadLPC():

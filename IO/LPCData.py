@@ -1,7 +1,7 @@
 __author__ = 'mmateja'
 
 import numpy as np
-from LoadFiles.LoadFillNumber import LoadFillNumbers
+from LoadFiles.LoadFillNumbers import LoadFillNumbers
 from TakeFillNumbers import TakeFillNumbers
 import collections
 class LPCData(TakeFillNumbers):
