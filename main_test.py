@@ -23,9 +23,9 @@ xaxis = "fillnumber"
 yaxis = "max_lumi_lumi"
 print 'Doing ' + yaxis + ' vs ' + xaxis
 datax,datay = r.retrieveData(xaxis,yaxis)
-for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()): 
+for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         #plot=PLOT(value1, value2)
-	plot=PLOT()
+        plot=PLOT()
         plot.setTitle("LHCb Peak Instantaneous Lumi at p-p 6.5 TeV in 2015") 
         plot.setxlabel("LHC Fillnumber")
         plot.setylabel("Peak Inst Luminosity (Hz/ub)")

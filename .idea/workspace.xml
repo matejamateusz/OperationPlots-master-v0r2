@@ -142,9 +142,14 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/ConditionData.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Fillnumbers.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fillnumbers_test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/LPCData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadDataFromFiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadFillNumber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PLOT/PLOT.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/PLOT/PLOT.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/Plot.py" />
@@ -156,6 +161,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/Retriever.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PLOT/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/__init__.py" />
@@ -166,11 +172,11 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_test.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/plot.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/test.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/testAGA.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/testFunctions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/testLoading.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/testLoading.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/testPlot.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/testPlot.py" />
@@ -179,12 +185,7 @@
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/PlotMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/test.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoadFiles/LoadFillNumber.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/LPCData.py" afterPath="$PROJECT_DIR$/IO/LPCData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_test.py" afterPath="$PROJECT_DIR$/main_test.py" />
     </list>
     <ignored path="OperationPlots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -221,11 +222,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="7128">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5732484" vertical-offset="0" max-vertical-offset="7128">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -244,17 +245,17 @@
       <file leaf-file-name="LoadFillNumbers.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="522">
               <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoadDataFromFiles.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoadDataFromFiles.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42121685" vertical-offset="0" max-vertical-offset="641">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
               <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
                 <element signature="e#24#67#0" expanded="true" />
@@ -317,8 +318,8 @@
         <option value="$PROJECT_DIR$/IO/LPCData.py" />
         <option value="$PROJECT_DIR$/Ploter/testPlot.py" />
         <option value="$PROJECT_DIR$/PLOT/PLOT.py" />
-        <option value="$PROJECT_DIR$/main_test.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
+        <option value="$PROJECT_DIR$/main_test.py" />
       </list>
     </option>
   </component>
@@ -354,7 +355,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -417,6 +417,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -906,6 +907,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="522">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="7128">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7128">
@@ -1171,15 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7128">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1201,11 +1227,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42121685" vertical-offset="0" max-vertical-offset="641">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
             <element signature="e#24#67#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5732484" vertical-offset="0" max-vertical-offset="7128">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
