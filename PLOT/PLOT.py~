@@ -30,9 +30,9 @@ def transformtotimestamp(dict):
 #     return {"time": map(lambda k: time.mktime(datetime.datetime(*k).timetuple()), xdict["time"])}
 
 class PLOT:
-    def __init__(self, x, y):
-        self.x = x#.astype(datetime)
-        self.y = y
+    def __init__(self):
+        #self.x = x#.astype(datetime)
+        #self.y = y
         self.figure = plt.figure()
 
         self.ax = plt.subplot(111)
@@ -57,18 +57,11 @@ class PLOT:
     def show(self):
         plt.show()
 
-    def drawmulti(self, x, y):
-        #plt.xticks(rotation=45)# horizontalalignment='right')
-        #print len(self.x), len(self.y
-        plt.plot(x, y, marker=self.marker, linestyle=self.linestyle, color=self.color,
-                 markersize=self.markersize)
-        #plt.tight_layout()
-
-    def draw(self):
+    def draw(self, x, y, *args):
         #plt.xticks(rotation=45)# horizontalalignment='right')
         #print len(self.x), len(self.y)
-        plt.plot(self.x, self.y, marker=self.marker, linestyle=self.linestyle, color=self.color,
-                 markersize=self.markersize)
+        plt.plot(x, y, marker=self.marker, linestyle=self.linestyle, color=args[0],
+                 markersize=args[1])
         #plt.tight_layout()
 
     def sety_min(self, y_min):

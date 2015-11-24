@@ -64,13 +64,12 @@ class PLOT:
                  markersize=args[1])
         #plt.tight_layout()
 
-    def sety_min(self, y_min):
+    def sety_limits(self, y_min, y_max):
         self.y_min = y_min
+        self.y_max = y_max
         plt.ylim(self.y_min, self.y_max)
 
-
     def setTitle(self, title):
-
         self.setTitle=title
         self.figure.suptitle(self.setTitle)
 
