@@ -1,6 +1,5 @@
 __author__ = 'mmateja'
 
-from LoadFillNumbers import LoadFillNumbers
 from IO.ConditionData import ConditionData
 import numpy as np
 class LoadCondition():
@@ -34,7 +33,6 @@ class LoadCondition():
             except ValueError:
                 pass
 
-            #self.data.load(path, d)
             self.data.load(fillnumber[z], d)
 
 

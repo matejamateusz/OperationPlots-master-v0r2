@@ -1,15 +1,12 @@
 __author__ = 'mmateja'
-__version__ = '0.2'
+__version__ = '0.3'
 
-from Plotter.PlotLPC import PlotLPC
-from Plotter.PlotCondition import PlotCondition
 from PLOT.PLOT import PLOT, dateformat
 from RetrieveData.RetrieveDataForPlot import RetrieveDataForPlot
 from RetrieveData.Retriever import Retriever
-import numpy as np
-from datetime import datetime
 
 basic_path = "/group/online/tfc/ROOT/"
+
 startfillnumber = 3819
 endfillnumber = 5000
 
@@ -17,16 +14,15 @@ endfillnumber = 5000
 print 'Retrieving data from lumi_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "lumi_LHCb", startfillnumber, endfillnumber)
 lumi = d.retrieve("LPC") #LPC, CONDITION
-r = RetrieveDataForPlot(lumi)
+r = RetrieveDataForPlot(l/  umi)
 
 xaxis = "fillnumber"  
 yaxis = "max_lumi_lumi"
 print 'Doing ' + yaxis + ' vs ' + xaxis
 datax,datay = r.retrieveData(xaxis,yaxis)
 for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
-        #plot=PLOT(value1, value2)
         plot=PLOT()
-        plot.setTitle("LHCb Peak Instantaneous Lumi at p-p 6.5 TeV in 2015") 
+        plot.setTitle("LHCb Peak Instantaneous Lumi at p-p 6.5 TeV in 2015")
         plot.setxlabel("LHC Fillnumber")
         plot.setylabel("Peak Inst Luminosity (Hz/ub)")
         plot.draw(value1, value2, 'b', 6)
@@ -224,7 +220,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015AveragePileupTime.png")
 
-print 'Retriving data from lumireg_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+print 'Retrieving data from lumireg_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "lumireg_LHCb", startfillnumber, endfillnumber)
 lumireg = d.retrieve("LPC") #LPC, CONDITION
 r = RetrieveDataForPlot(lumireg)
@@ -265,7 +261,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015LumiRegionyFill.png")
 
-print 'Retriving data from beam1_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+print 'Retrieving data from beam1_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "beam1_LHCb", startfillnumber, endfillnumber)
 beam1shape = d.retrieve("LPC") #LPC, CONDITION
 r = RetrieveDataForPlot(beam1shape)
@@ -294,7 +290,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015Beam1yFill.png")
 
-print 'Retriving data from beam2_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+print 'Retrieving data from beam2_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "beam2_LHCb", startfillnumber, endfillnumber)
 beam2shape = d.retrieve("LPC") #LPC, CONDITION
 r = RetrieveDataForPlot(beam2shape)
@@ -324,12 +320,12 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.savefig("OUTPUTPLOTS/2015Beam2yFill.png")
 
 
-#Intensities, to fix how to superimpose two plots
-print 'Retriving data from IntensityPerFill_beam1 between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+#Intensities, superimpose of two plots
+print 'Retrieving data from IntensityPerFill_beam1 between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "IntensityPerFill_beam1", startfillnumber, endfillnumber)
 beam1intensities = d.retrieve("Condition") #LPC, CONDITION
 r1 = RetrieveDataForPlot(beam1intensities)
-print 'Retriving data from IntensityPerFill_beam2 between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+print 'Retrieving data from IntensityPerFill_beam2 between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "IntensityPerFill_beam2", startfillnumber, endfillnumber)
 beam2intensities = d.retrieve("Condition") #LPC, CONDITION
 r2 = RetrieveDataForPlot(beam2intensities)
@@ -349,24 +345,6 @@ datax,datay = r2.retrieveData(xaxis,yaxis)
 for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
 	plotm.draw(value1, value2, 'r', 5)
         plotm.savefig("OUTPUTPLOTS/2015PeakBeamsIntensitiesFill.png")
-
-#xaxis = "time_date"  
-#yaxis = "max_condition"
-#print 'Doing ' + yaxis + ' vs ' + xaxis
-#datax,datay = r1.retrieveData(xaxis,yaxis)
-#for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()): 
-#        value1 = dateformat(value1)
-#        plot = PLOT()
-#datax,datay = r2.retrieveData(xaxis,yaxis)
-#for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()): 
-#        value1 = dateformat(value1)
-#        plot = PLOT()
-#        plot.setDate()
-#        plot.setTitle("LHC Peak Beams Intensities in 2015") 
-#        plot.setxlabel("Date")
-#        plot.setylabel("Peak Beams Intensities (10^8 p)")
-#	 plot.draw(value1, value2, 'b')
-#        plot.savefig("OUTPUTPLOTS/2015PeakBeamsIntensitiesTime.png")
 
 #plot.show()
 #raw_input("Press enter to continue")

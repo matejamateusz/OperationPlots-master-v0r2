@@ -2,7 +2,6 @@ from __builtin__ import dict
 
 __author__ = 'mmateja'
 
-from LoadFillNumbers import LoadFillNumbers
 from IO.LPCData import LPCData
 import numpy as np
 class LoadLPC():
@@ -30,31 +29,25 @@ class LoadLPC():
                 except TypeError:
                     pass
                 except IOError:
-                    #d=np.empty
                     pass
                 except ValueError:
                     pass
             elif self.nameFileEnd is 'beam1_LHCb' or self.nameFileEnd is 'beam2_LHCb':
                 try:
                     d=np.genfromtxt(path, dtype=None, names=['time_sec','stablebeams_flag','xmean','dx','ymean','dy','xangle','dxangle','yangle','dyangle','xsigma','dxsigma','ysigma','dysigma'], delimiter=' ').T
-
                 except TypeError:
                     pass
                 except IOError:
-                    #d=np.empty
                     pass
                 except ValueError:
                     pass
             elif self.nameFileEnd is 'lumi_LHCb':
                 try:
                     d=np.genfromtxt(path, dtype=None, names=['time_sec','stablebeams_flag','lumi','lumi_err','lumispec','lumispec_err'], delimiter=' ').T
-
                 except TypeError:
                     pass
                 except IOError:
-                    #d=np.empty
                     pass
-            #self.data.load(path, d)
             self.data.load(fillnumber[z], d)
 
 

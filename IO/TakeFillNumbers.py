@@ -12,5 +12,4 @@ class TakeFillNumbers():
             xlist[z] = z
         xlist = collections.OrderedDict(sorted(xlist.items()))
         ylist['fillnumbers']=xlist.values()
-        #print ylist
         return ylist

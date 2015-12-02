@@ -33,7 +33,6 @@ class ConditionData(TakeFillNumbers):
                 xlist[key]=[]
         xlist = collections.OrderedDict(sorted(xlist.items()))
         ylist['max_Condition'] = xlist.values()
-        #print ylist
         return ylist
 
     def getaverage_condition(self):
@@ -46,7 +45,6 @@ class ConditionData(TakeFillNumbers):
                 xlist[key]=[]
         xlist = collections.OrderedDict(sorted(xlist.items()))
         ylist['average_Condition'] = xlist.values()
-        #print ylist
         return ylist
 
     def gettime_date(self):
@@ -61,5 +59,4 @@ class ConditionData(TakeFillNumbers):
         xlist = collections.OrderedDict(sorted(xlist.items()))
         ylist['time_date']=xlist.values()
         zlist = transformtotimestamp(ylist)
-        #print zlist
         return zlist

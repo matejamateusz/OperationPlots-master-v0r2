@@ -8,8 +8,6 @@ import pytz # $ pip install pytz
 import tzlocal # $ pip install tzlocal
 #  FOR ALL PLATFORMS to get access to the tz database on all platforms
 # and compute the correct "seconds since the Epoch" (POSIX timestamp) corresponding to the input time tuples:
-import numpy as np
-
 
 def dateformat(value1):
         value1 = [datetime.fromtimestamp(v1) for v1 in value1]
@@ -26,20 +24,13 @@ def transformtotimestamp(dict):
         dict['time_date'] = list_utc_timestamp
         return dict
 
-# def transformtotimestamp(xdict):
-#     return {"time": map(lambda k: time.mktime(datetime.datetime(*k).timetuple()), xdict["time"])}
-
 class PLOT:
     def __init__(self):
-        #self.x = x#.astype(datetime)
-        #self.y = y
         self.figure = plt.figure()
 
         self.ax = plt.subplot(111)
         self.ax.fmt_xdata = mdates.DateFormatter('%d/%m')
-        #self.ax.xaxis.set_major_formatter(mdates.DateFormatter('%Y-%m-%d %H:%M:%S'))
 
-        #self.figure.suptitle("LHCB")
         self.xlabel = "TITLE OF XLABEL"
         self.ylabel = 'TITLE OF YLABEL'
 
@@ -52,17 +43,13 @@ class PLOT:
         self.marker = Line2D.filled_markers[0]
         plt.grid()
 
-
 	
     def show(self):
         plt.show()
 
     def draw(self, x, y, *args):
-        #plt.xticks(rotation=45)# horizontalalignment='right')
-        #print len(self.x), len(self.y)
         plt.plot(x, y, marker=self.marker, linestyle=self.linestyle, color=args[0],
                  markersize=args[1])
-        #plt.tight_layout()
 
     def sety_limits(self, y_min, y_max):
         self.y_min = y_min

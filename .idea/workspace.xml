@@ -2,190 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="939e68b4-7303-44cc-8fe1-c4e9463c857e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AverageMuFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AverageMuTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AveragePileupFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AveragePileupTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AvgLumiFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015AvgLumiTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015Beam1xFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015Beam1yFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015Beam2xFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015Beam2yFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3819.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3820.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3824.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3829.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3833.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3835.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3846.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3847.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3848.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3850.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3851.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3855.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3857.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3858.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3960.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3962.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3965.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3971.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3974.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3976.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3981.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3983.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3986.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3988.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3992.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill3996.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4019.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4020.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4201.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4205.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4207.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4208.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4210.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4211.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4212.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4214.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4219.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4220.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4224.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4225.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4231.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4243.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4246.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4249.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4254.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4256.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4257.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4263.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4266.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4268.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4269.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4322.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4323.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4332.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4337.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4341.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4342.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4349.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4356.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4360.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4363.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4364.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4376.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4381.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4384.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4386.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4391.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4393.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4397.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4398.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4402.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4410.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4418.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4420.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4423.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4426.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4428.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4432.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4434.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4435.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4437.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4440.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4444.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4448.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4449.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4452.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4455.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4462.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4463.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4464.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4466.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4467.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4476.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4477.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4479.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4485.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4495.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4496.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4499.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4505.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4509.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4510.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4511.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4513.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4518.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4519.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4522.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4525.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015InstLumiFill4528.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015LumiRegionxFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015LumiRegionyFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015LumiRegionzFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakBeamsIntensitiesFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakLumiFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakLumiTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakMuFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakMuTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakPileupFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakPileupTime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakSpecLumiFill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OUTPUTPLOTS/2015PeakSpecLumiTime.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/3819/3819_lumi_LHCb.txt" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/3820/3820_lumi_LHCb.txt" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/3824/3824_lumi_LHCb.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/ConditionData.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Fillnumbers.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fillnumbers_test.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/LPCData.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadDataFromFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadFiles.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadFillNumber.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PLOT/PLOT.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/PLOT/PLOT.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/Plot.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/Plot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/PlotCondition.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/PlotLPC.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/Retriever.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PLOT/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/IO/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/PLOT/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/__init__.py" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.recents.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/plot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/testAGA.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TEMPFOLDER/testFunctions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LoadFiles/testLoading.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/testLoading.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Plotter/testPlot.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/testPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RetrieveData/testRetriever.py" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Fillnumbers_test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LoadFiles/testLoading.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/Plot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/PlotCondition.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/PlotLPC.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/testPlot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RetrieveData/testRetriever.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/main.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/plot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/testAGA.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/testFunctions.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/PlotMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_test.py" afterPath="$PROJECT_DIR$/main_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/ConditionData.py" afterPath="$PROJECT_DIR$/IO/ConditionData.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/LPCData.py" afterPath="$PROJECT_DIR$/IO/LPCData.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperationPlots.py" afterPath="$PROJECT_DIR$/OperationPlots.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PLOT/PLOT.py" afterPath="$PROJECT_DIR$/PLOT/PLOT.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/TakeFillNumbers.py" afterPath="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OperationPlots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -222,45 +82,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main_test.py">
+      <file leaf-file-name="OperationPlots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OperationPlots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5732484" vertical-offset="0" max-vertical-offset="7128">
-              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RetrieveDataForPlot.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoadFillNumbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="522">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoadDataFromFiles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="5685">
+              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
               <folding>
-                <element signature="e#24#67#0" expanded="true" />
+                <element signature="e#44#82#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1013">
+              <caret line="0" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -272,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lumi.txt" />
         <option value="$PROJECT_DIR$/3820/3820_lumi_LHCb.txt" />
         <option value="$PROJECT_DIR$/3824/3824_lumi_LHCb.txt" />
         <option value="$PROJECT_DIR$/new.py" />
@@ -310,16 +158,20 @@
         <option value="$PROJECT_DIR$/Ploter/PlotLPC.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadFillNumber.py" />
         <option value="$PROJECT_DIR$/Ploter/PlotCondition.py" />
-        <option value="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
         <option value="$PROJECT_DIR$/testAGA.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
-        <option value="$PROJECT_DIR$/IO/ConditionData.py" />
-        <option value="$PROJECT_DIR$/IO/LPCData.py" />
         <option value="$PROJECT_DIR$/Ploter/testPlot.py" />
-        <option value="$PROJECT_DIR$/PLOT/PLOT.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
         <option value="$PROJECT_DIR$/main_test.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/PLOT/PLOT.py" />
+        <option value="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
+        <option value="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
+        <option value="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
+        <option value="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
+        <option value="$PROJECT_DIR$/IO/LPCData.py" />
+        <option value="$PROJECT_DIR$/IO/ConditionData.py" />
+        <option value="$PROJECT_DIR$/OperationPlots.py" />
       </list>
     </option>
   </component>
@@ -327,10 +179,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="428" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="x" value="1366" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -373,48 +225,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots-master_v0r2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RetrieveData" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots-master_v0r2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Plotter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OperationPlots-master_v0r2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LoadFiles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -428,7 +238,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ROOT/OPERATIONALPLOTSPycharm" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -807,11 +617,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="428" width="1301" height="772" extended-state="6" />
+    <frame x="1366" y="24" width="960" height="1176" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20368947" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31354168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43880326" sideWeight="0.4046875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -886,16 +696,49 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="23" />
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main_test.py">
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="7128">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="405">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="675">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="435">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="405">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#67#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -903,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -920,16 +762,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#24#67#0" expanded="true" />
+            <element signature="e#24#67#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="7128">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,15 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7128">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,9 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="2052">
           <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-          <folding>
-            <element signature="e#23#54#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,23 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1278">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="918">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7128">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -996,9 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1332" max-vertical-offset="2052">
           <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-          <folding>
-            <element signature="e#23#54#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,44 +816,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1278">
           <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="918">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="126">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/testLoading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7028862" vertical-offset="0" max-vertical-offset="630">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/testFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1332">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,122 +890,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IO/TakeFillNumbers.py">
+    <entry file="file://$PROJECT_DIR$/RetrieveData/Retriever.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.565445" vertical-offset="0" max-vertical-offset="382">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFiles.py">
+    <entry file="file://$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5912409" vertical-offset="108" max-vertical-offset="450">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/testAGA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="274">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="612">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadLPC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31034482" vertical-offset="315" max-vertical-offset="630">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1724138" vertical-offset="297" max-vertical-offset="558">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IO/ConditionData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="882" max-vertical-offset="1278">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-          <folding>
-            <element signature="e#24#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEMPFOLDER/plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IO/LPCData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1656">
-          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1045">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PLOT/PLOT.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="666" max-vertical-offset="1962">
-          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.6395349" vertical-offset="0" max-vertical-offset="1500">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="e#23#54#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RetrieveData/Retriever.py">
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadLPC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23255815" vertical-offset="0" max-vertical-offset="1032">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RetrieveData/RetrieveDataForPlot.py">
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="641">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.014534884" vertical-offset="0" max-vertical-offset="1032">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#66#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#24#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IO/LPCData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27272728" vertical-offset="0" max-vertical-offset="1215">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IO/ConditionData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49418604" vertical-offset="0" max-vertical-offset="1032">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+        <state vertical-scroll-proportion="0.21802326" vertical-offset="0" max-vertical-offset="1032">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding>
-            <element signature="e#24#67#0" expanded="true" />
+            <element signature="e#24#67#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main_test.py">
+    <entry file="file://$PROJECT_DIR$/IO/TakeFillNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5732484" vertical-offset="0" max-vertical-offset="7128">
-          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.18660288" vertical-offset="0" max-vertical-offset="1045">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperationPlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="5685">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#44#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1013">
+          <caret line="0" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
