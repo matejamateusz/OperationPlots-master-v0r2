@@ -14,7 +14,7 @@ endfillnumber = 5000
 print 'Retrieving data from lumi_LHCb between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "lumi_LHCb", startfillnumber, endfillnumber)
 lumi = d.retrieve("LPC") #LPC, CONDITION
-r = RetrieveDataForPlot(l/  umi)
+r = RetrieveDataForPlot(lumi)
 
 xaxis = "fillnumber"  
 yaxis = "max_lumi_lumi"
@@ -109,6 +109,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015InstLumiFill"+str(int(key1))+".png")
 
+print 'Retrieving data from Mu between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "Mu", startfillnumber, endfillnumber)
 mu = d.retrieve("Condition") #LPC, CONDITION
 r = RetrieveDataForPlot(mu)
@@ -165,6 +166,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015AverageMuTime.png")
 
+print 'Retrieving data from Pileup between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
 d = Retriever( basic_path, "Pileup", startfillnumber, endfillnumber)
 pileup = d.retrieve("Condition") #LPC, CONDITION
 r = RetrieveDataForPlot(pileup)
@@ -350,25 +352,37 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
 #raw_input("Press enter to continue")
 
 ##################################################TEMPLATE PLOTTING################################################
-# basic_path = "/home/mmateja/PycharmProjects/OperationPlots/"
-# nameFileEnd = "Mu"
-# xaxis = "fillnumber"  #TIME_DATE, FILLNUMBER
-# yaxis = "max_lumi"    #MAX_LUMI, AVERAGE_LUMI, MAX_CONDITION, AVERAGE_CONDITION
-# d=PlotLPC(xaxis, yaxis, basic_path, "lumi_LHCb", startfillnumber, endfillnumber)
-# #d=PlotCondition("time_year","value", basic_path, nameFileEnd)
-# for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()): #-key2
-#         #value1 = [datetime.fromtimestamp(v1) for v1 in value1]
-#         if key1 != key2 and ("time_sec" and "lumi" in xaxis and yaxis):
-#             print "ERROR DIFFERENT KEYS!!!!!!!"
-#         if "time_date" in xaxis and yaxis:
-#             value1 = dateformat(value1)
-#             plot=PLOT()
-#             plot.setTitle(key1) #key1
-#             plot.setDate()
-#             plot.draw(value1, value2, 'b')
-#         else:
-#             plot=PLOT()
-#             plot.setTitle(key1) #key1
-#             plot.draw(value1, value2, 'b')
+#Here is show the template plotting with example values of variables for Condition data structure
+#basic_path = "/group/online/tfc/ROOT/"
+
+#startfillnumber = 3819 #number of fillnumber from which starts retrieving data
+#endfillnumber = 5000 #number of fillnumber to which ends retrieving data
+
+#print 'Retrieving data from Mu between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
+#d = Retriever( basic_path, "Mu", startfillnumber, endfillnumber)
+#mu = d.retrieve("Condition") #LPC, CONDITION
+#r = RetrieveDataForPlot(mu)
+
+#xaxis = "fillnumber"  #options: TIME_DATE, FILLNUMBER
+#yaxis = "max_condition" #options: MAX_CONDITION, AVERAGE_CONDITION
+#print 'Doing ' + yaxis + ' vs ' + xaxis
+#datax,datay = r.retrieveData(xaxis,yaxis)
+#for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
+#    if "time_date" in xaxis and yaxis:
+#        value1 = dateformat(value1)
+#        plot = PLOT()
+#        plot.setDate()
+#        plot.setTitle("LHCb Peak Mu at p-p 6.5 TeV in 2015")
+#        plot.setxlabel("Date")
+#        plot.setylabel("Peak Mu")
+#        plot.draw(value1, value2, 'b', 6)
+#        plot.savefig("OUTPUTPLOTS/2015PeakMuTime.png")
+#    else:
+#        plot = PLOT()
+#        plot.setTitle("LHCb Peak Mu at p-p 6.5 TeV in 2015")
+#        plot.setxlabel("LHC Fillnumber")
+#        plot.setylabel("Peak Mu")
+#        plot.draw(value1, value2, 'b', 6)
+#        plot.savefig("OUTPUTPLOTS/2015PeakMuFill.png")
 #
-######################################################################################################################
+###################################################################################################################

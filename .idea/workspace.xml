@@ -19,33 +19,12 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/testLoading.py" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/testPlot.py" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Fillnumbers_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LoadFiles/testLoading.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/Plot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/PlotCondition.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/PlotLPC.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Plotter/testPlot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RetrieveData/testRetriever.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/plot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/testAGA.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TEMPFOLDER/testFunctions.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/PlotMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/ConditionData.py" afterPath="$PROJECT_DIR$/IO/ConditionData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/LPCData.py" afterPath="$PROJECT_DIR$/IO/LPCData.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperationPlots.py" afterPath="$PROJECT_DIR$/OperationPlots.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PLOT/PLOT.py" afterPath="$PROJECT_DIR$/PLOT/PLOT.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/TakeFillNumbers.py" afterPath="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OperationPlots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,11 +61,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OperationPlots.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoadFillNumbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperationPlots.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OperationPlots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="5685">
-              <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.9136276" vertical-offset="4853" max-vertical-offset="5895">
+              <caret line="387" column="115" selection-start-line="387" selection-start-column="115" selection-end-line="387" selection-end-column="115" />
               <folding>
                 <element signature="e#44#82#0" expanded="true" />
               </folding>
@@ -94,7 +83,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoadLPC.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoadFiles/LoadLPC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConditionData.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IO/ConditionData.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxHtmlEditor">
             <state />
@@ -103,13 +112,23 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1013">
-              <caret line="0" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.34375" vertical-offset="0" max-vertical-offset="645">
+              <caret line="37" column="115" selection-start-line="37" selection-start-column="115" selection-end-line="37" selection-end-column="115" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoadCondition.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -163,14 +182,14 @@
         <option value="$PROJECT_DIR$/Ploter/testPlot.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadDataFromFiles.py" />
         <option value="$PROJECT_DIR$/main_test.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/PLOT/PLOT.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadLPC.py" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadCondition.py" />
-        <option value="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
         <option value="$PROJECT_DIR$/IO/TakeFillNumbers.py" />
         <option value="$PROJECT_DIR$/IO/LPCData.py" />
         <option value="$PROJECT_DIR$/IO/ConditionData.py" />
+        <option value="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/OperationPlots.py" />
       </list>
     </option>
@@ -180,9 +199,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1366" />
-    <option name="y" value="24" />
-    <option name="width" value="960" />
-    <option name="height" value="1176" />
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1204" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -222,6 +241,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="OperationPlots-master_v0r2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OperationPlots" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OperationPlots-master_v0r2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LoadFiles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OperationPlots" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OperationPlots-master_v0r2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,11 +664,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="24" width="960" height="1176" extended-state="4" />
+    <frame x="1366" y="-4" width="1920" height="1204" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31354168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15677084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43880326" sideWeight="0.4046875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -916,32 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadLPC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23255815" vertical-offset="0" max-vertical-offset="1032">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.014534884" vertical-offset="0" max-vertical-offset="1032">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#66#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFiles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -958,16 +979,6 @@
           <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
             <element signature="e#24#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IO/ConditionData.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49418604" vertical-offset="0" max-vertical-offset="1032">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding>
-            <element signature="e#24#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -990,13 +1001,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OperationPlots.py">
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadLPC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7419353" vertical-offset="0" max-vertical-offset="5685">
-          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding>
-            <element signature="e#44#82#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadCondition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IO/ConditionData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1008,13 +1033,31 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1013">
-          <caret line="0" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.34375" vertical-offset="0" max-vertical-offset="645">
+          <caret line="37" column="115" selection-start-line="37" selection-start-column="115" selection-end-line="37" selection-end-column="115" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OperationPlots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9136276" vertical-offset="4853" max-vertical-offset="5895">
+          <caret line="387" column="115" selection-start-line="387" selection-start-column="115" selection-end-line="387" selection-end-column="115" />
+          <folding>
+            <element signature="e#44#82#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
