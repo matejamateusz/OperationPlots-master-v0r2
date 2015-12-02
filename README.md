@@ -2,6 +2,7 @@
 
 ##TEMPLATE PLOTTING
 Here is shown the template plotting with example values of variables for Condition data structure
+```
 basic_path = "/group/online/tfc/ROOT/"
 
 startfillnumber = 3819 #number of fillnumber from which starts retrieving data
@@ -33,3 +34,4 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
         plot.setylabel("Peak Mu")
         plot.draw(value1, value2, 'b', 6)
         plot.savefig("OUTPUTPLOTS/2015PeakMuFill.png")
+```

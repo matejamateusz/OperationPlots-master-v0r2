@@ -22,10 +22,7 @@
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/LoadFiles/LoadMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/Ploter/PlotMu.py" afterPath="" />
       <change type="DELETED" beforePath="$USER_HOME$/PycharmProjects/OperationPlots/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" afterPath="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/OperationPlots.py" afterPath="$PROJECT_DIR$/OperationPlots.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OperationPlots.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OperationPlots.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OperationPlots.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/OperationPlots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43857965" vertical-offset="4853" max-vertical-offset="5895">
-              <caret line="354" column="14" selection-start-line="354" selection-start-column="14" selection-end-line="354" selection-end-column="14" />
+            <state vertical-scroll-proportion="-16.193548" vertical-offset="4853" max-vertical-offset="5895">
+              <caret line="357" column="24" selection-start-line="357" selection-start-column="24" selection-end-line="357" selection-end-column="24" />
               <folding>
                 <element signature="e#44#82#0" expanded="true" />
               </folding>
@@ -94,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider editor-type-id="MultiMarkdownFxHtmlEditor">
             <state />
@@ -103,8 +100,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+            <state vertical-scroll-proportion="0.518732" vertical-offset="0" max-vertical-offset="1041">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -180,8 +177,8 @@
         <option value="$PROJECT_DIR$/IO/LPCData.py" />
         <option value="$PROJECT_DIR$/IO/ConditionData.py" />
         <option value="$PROJECT_DIR$/OperationPlots.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1016,23 +1013,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1041">
-          <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LoadFiles/LoadFillNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29356945" vertical-offset="0" max-vertical-offset="1073">
@@ -1043,12 +1023,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OperationPlots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43857965" vertical-offset="4853" max-vertical-offset="5895">
-          <caret line="354" column="14" selection-start-line="354" selection-start-column="14" selection-end-line="354" selection-end-column="14" />
+        <state vertical-scroll-proportion="-16.193548" vertical-offset="4853" max-vertical-offset="5895">
+          <caret line="357" column="24" selection-start-line="357" selection-start-column="24" selection-end-line="357" selection-end-column="24" />
           <folding>
             <element signature="e#44#82#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.518732" vertical-offset="0" max-vertical-offset="1041">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
