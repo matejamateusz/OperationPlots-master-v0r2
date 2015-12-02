@@ -352,7 +352,7 @@ for (key1, value1),(key2, value2) in zip(datax.iteritems(), datay.iteritems()):
 #raw_input("Press enter to continue")
 
 ##################################################TEMPLATE PLOTTING################################################
-#Here is show the template plotting with example values of variables for Condition data structure
+#Here is shown the template plotting with example values of variables for Condition data structure
 #basic_path = "/group/online/tfc/ROOT/"
 
 #startfillnumber = 3819 #number of fillnumber from which starts retrieving data
