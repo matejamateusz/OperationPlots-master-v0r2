@@ -4,12 +4,13 @@
 Here is shown the template plotting with example values of variables for Condition data structure
 ```
 basic_path = "/group/online/tfc/ROOT/"
+namefileend = "Mu"
 
 startfillnumber = 3819 #number of fillnumber from which starts retrieving data
 endfillnumber = 5000 #number of fillnumber to which ends retrieving data
 
 print 'Retrieving data from Mu between fill# ' + str(startfillnumber) + ' and fill# ' + str(endfillnumber)
-d = Retriever( basic_path, "Mu", startfillnumber, endfillnumber)
+d = Retriever( basic_path, namefileend, startfillnumber, endfillnumber)
 mu = d.retrieve("Condition") #LPC, CONDITION
 r = RetrieveDataForPlot(mu)
 
